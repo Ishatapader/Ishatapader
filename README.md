@@ -1,25 +1,18 @@
-<h1 align="center">Hi 👋, I'm Isha Tapader</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+# 💫 About Me:
+Hi, I'm Isha Tapader 👋<br><br>I'm a Software Engineer passionate about writing clean code and solving complex problems. Currently sharpening my skills in Data Structures & Algorithms and exploring the exciting world of Computer Vision.<br><br>- 🔭 Looking for: Software Engineer opportunities<br>- 🌱 Currently learning: DSA & Problem Solving | Computer Vision<br>- 💡 Interested in: Building intelligent, efficient software<br>- 💼 Open to collaborations and full-time roles<br>- ⚡ I enjoy turning real-world problems into elegant code<br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishatapader&label=Profile%20views&color=0e75b6&style=flat" alt="ishatapader" /> </p>
-
-- 📫 How to reach me **ishatapader1999@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isha-tapader-116680247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isha-tapader-116680247/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__.ishha._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.ishha._/" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isha-tapader-116680247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishatapader46@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ishatapader&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ishatapader&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ishatapader&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishatapader&show_icons=true&locale=en&layout=compact" alt="ishatapader" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishatapader&show_icons=true&locale=en" alt="ishatapader" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishatapader&" alt="ishatapader" /></p>
 
 
