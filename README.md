@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Isha Tapader 👋<br><br>I'm a Software Engineer passionate about writing clean code and solving complex problems. Currently sharpening my skills in Data Structures & Algorithms and exploring the exciting world of Computer Vision.<br><br>- 🔭 Looking for: Software Engineer opportunities<br>- 🌱 Currently learning: DSA & Problem Solving | Computer Vision<br>- 💡 Interested in: Building intelligent, efficient software<br>- 💼 Open to collaborations and full-time roles<br>- ⚡ I enjoy turning real-world problems into elegant code<br><br>"
+Hi, I'm Isha Tapader 👋<br><br>I'm a Software Engineer passionate about writing clean code and solving complex problems. Currently sharpening my skills in Data Structures & Algorithms and exploring the exciting world of Computer Vision.<br><br>- 🔭 Looking for: Software Engineer opportunities<br>- 🌱 Currently learning: DSA & Problem Solving | Computer Vision<br>- 💡 Interested in: Building intelligent, efficient software<br>- 💼 Open to collaborations and full-time roles<br>- ⚡ I enjoy turning real-world problems into elegant code<br><br>
 
 
 ## 🌐 Socials:
